@@ -36,9 +36,11 @@ To play Space Invaders, follow these steps:
 
 ## Screenshots
 
-![image](https://github.com/Abhigyankrsingh/Space-Invaders-Game/assets/72941693/946348e3-34cd-4c20-84fe-b82c9d7b97bc)
+![image](https://github.com/Abhigyankrsingh/Space-Invader-Game/assets/72941693/2e24c961-627b-4bff-8f01-5b255b4d50f7)
 
-![image](https://github.com/Abhigyankrsingh/Space-Invaders-Game/assets/72941693/6bcbb9c0-cffd-47c2-a240-b8335c2885e0)
+
+![image](https://github.com/Abhigyankrsingh/Space-Invader-Game/assets/72941693/c8909e11-c4b7-43e4-95c9-374f26818b57)
+
 
 
 
