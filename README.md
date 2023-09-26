@@ -52,7 +52,7 @@ Feel free to explore the code in this repository to understand how the game work
 
 ## Credits
 
-- The game graphics were created by the developer or sourced from public domain resources.
+- The game graphics were created by me.
 - Sound effects and music (if any) can be added to enhance the gaming experience.
 - This project serves as a foundation for creating more complex games or learning about game development using web technologies.
 
