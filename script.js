@@ -33,9 +33,10 @@ class Player{
 
    }
    restart(){
-    this.x = this.game - this.width * 0.5;
-    this.y = this.game.height - this.height;
-    this.lives = 3;
+ this.x = this.game.width * 0.5 - this.width * 0.5;
+this.y = this.game.height - this.height;
+this.lives = 3;
+
 
 
    }
